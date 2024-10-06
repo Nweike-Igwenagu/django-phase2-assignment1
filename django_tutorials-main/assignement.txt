@@ -1,0 +1,4 @@
+1. create an endpoint to delete a book  
+2. create an endpoint to delete a review 
+3. create an endpoint to update a book 
+4. create an endpoint to update a review 
